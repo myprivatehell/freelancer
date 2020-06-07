@@ -35,15 +35,7 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
-
-h4 {
-    text-align: center;
-}    
-
-site.header.footer {
-    text-align: center;
-}    
-
+   
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -139,6 +131,7 @@ header .intro-text .skills {
         -moz-transition: padding .3s;
         transition: padding .3s;
         background: #000000;
+        text-align: center;
     }
 
     .navbar-fixed-top .navbar-brand {
@@ -147,6 +140,7 @@ header .intro-text .skills {
         -moz-transition: all .3s;
         transition: all .3s;
         background: #000000;
+        text-align: center;
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -163,6 +157,7 @@ header .intro-text .skills {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     background: #000000;
+    text-align: center;
 }
 
 .navbar a:focus {
