@@ -7,7 +7,16 @@
         <div class="intro-text">
           <i class="&#xf06e" /></i>
           <span class="skills">{{ site.skills }}</span>
-        <span class="header">{{ site.header.social }}</span>        
+         
+                        <h3>{{ site.footer.social }}</h3>
+                        <ul class="list-inline">
+                            {% for network in site.social %}
+                            <li>
+                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                            </li>
+		                    {% endfor %}
+                        </ul>
+                    
         </div>
       </div>
     </div>
