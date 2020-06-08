@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2020-06-07
-img: My-Private-Hell-Suicide-EP-Cover.png
+img: MyPrivateHell-Suicide-EP-Cover.png
 alt: image-alt
 project-date: April 2020
 client: Start Bootstrap
