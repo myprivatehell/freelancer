@@ -344,6 +344,7 @@ footer h3 {
 footer .footer-above {
     padding-top: 50px;
     background-color: #{{ site.color.secondary }};
+    text-align:center;
 }
 
 footer .footer-col {
