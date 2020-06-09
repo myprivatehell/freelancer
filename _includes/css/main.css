@@ -23,6 +23,7 @@ a:active,
 a.active {
     outline: 0;
     color: #{{ site.color.primary }};
+    background: #ff073a;
 }
 
 h1,
@@ -226,6 +227,7 @@ section.success {
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
     opacity: 0.5;
+    background: #ff073a;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
@@ -236,7 +238,6 @@ section.success {
     margin-top: -12px;
     text-align: center;
     font-size: 20px;
-    color: #ff073a;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
