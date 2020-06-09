@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #ff073a;
 }
 
 h1,
@@ -271,8 +271,8 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
-    color: #{{ site.color.primary }};
+    border: solid 2px #ff073a;
+    color: #ffffff;
     background: #ff073a;
 }
 
