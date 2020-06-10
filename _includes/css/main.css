@@ -237,10 +237,12 @@ section.success {
     margin-top: -12px;
     text-align: center;
     font-size: 20px;
+    background: #000000;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
+    background: #000000;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
