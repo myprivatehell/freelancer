@@ -211,6 +211,8 @@ section.portfolio {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    background: #000000;
+
 }
 
 #portfolio .portfolio-item .portfolio-link {
