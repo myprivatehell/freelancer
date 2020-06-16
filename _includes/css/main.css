@@ -39,8 +39,8 @@ h6 {
     color: #ffffff;
 }
    
-hr.eye-primary,
-hr.eye-primary {
+hr.eye,
+hr.eye {
     margin: 25px auto 30px;
     padding: 0;
     max-width: 250px;
@@ -50,8 +50,8 @@ hr.eye-primary {
     overflow: visible;
 }
 
-hr.eye-light:after,
-hr.eye-primary:after {
+hr.eye:after,
+hr.eye:after {
     content: "\f005";
     display: inline-block;
     position: relative;
@@ -61,20 +61,20 @@ hr.eye-primary:after {
     font-size: 2em;
 }
 
-hr.eye-light {
+hr.eye {
     border-color: #fff;
 }
 
-hr.eye-light:after {
+hr.eye:after {
     color: #fff;
     background-color: #{{ site.color.primary }};
 }
 
-hr.eye-primary {
+hr.eye {
     border-color: #{{ site.color.secondary }};
 }
 
-hr.eye-primary:after {
+hr.eye:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
 }
