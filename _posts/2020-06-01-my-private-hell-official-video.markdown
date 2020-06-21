@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2020-06-01
-img: suicide.png
+img: mph-suicide.png
 alt: alt-img
 title: My Private Hell Suicide Video
 project-date: July 2009
