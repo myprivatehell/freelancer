@@ -4,7 +4,7 @@ email: myprivatehell.la@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "LOS ANGELES"
+skills: 
 meta_author: Solo Gian
 
 # Google webmaster tools
@@ -40,9 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/myprivatehell
   - title: facebook
-    url:
+    url: https://www.facebook.com/My-Private-Hell-69545835779
 
 
 # Postal address (add as many lines as necessary)
