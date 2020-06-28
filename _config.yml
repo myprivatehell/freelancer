@@ -1,9 +1,9 @@
 # Site settings
 title: 
 email: myprivatehell.la@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+url: https://mphmusic.net
+description: "Official Home Page of Hard Rock Metal Band My Private Hell."
+keywords: "my private hell, music, rock, band, store, purchase, shop, stream, video, photo, about, official, site, website, home, page, filipino, los angeles, hollywood, valley, metal, guitar, bass, drums, vocals, 2000s, local, fight injustice, anti-racist, anti police brutality"
 skills: 
 meta_author: Solo Gian
 
@@ -33,8 +33,8 @@ color:
 # Footer settings
 footer:
   copyright: My Private Hell
-  location: Location
-  social: Around the Web
+  location: Los Angeles
+  social: Twitter Facebook
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
